@@ -1,0 +1,1 @@
+C:\Users\josev\OneDrive\Documentos\Estudos\Projetos\Rust\rust_references_and_borrowing\target\debug\rust_references_and_borrowing.exe: C:\Users\josev\OneDrive\Documentos\Estudos\Projetos\Rust\rust_references_and_borrowing\src\main.rs
